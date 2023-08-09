@@ -1,0 +1,1 @@
+mongodb+srv://Ecommerce:sFHMBjgK2161lccG@cluster0.azgmirs.mongodb.net/Digitic?retryWrites=true&w=majority
